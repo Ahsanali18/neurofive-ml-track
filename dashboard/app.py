@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import joblib
 import plotly.graph_objects as go
+from pathlib import Path
+import joblib
+BASE_DIR = Path(__file__).resolve().parent.parent
+MODEL_PATH = BASE_DIR / "models" / "churn_pipeline.pkl"
 
 # -----------------------------------------
 # PAGE CONFIGURATION
@@ -158,7 +162,7 @@ st.markdown("""
 @st.cache_resource
 def load_model():
     try:
-        return joblib.load('../models/churn_pipeline.pkl')
+        return joblib.load(MODEL_PATH)
     except FileNotFoundError:
         return None
 
