@@ -3,4 +3,8 @@ pandas
 numpy
 scikit-learn
 joblib
+<<<<<<< HEAD
 plotly
+=======
+plotly
+>>>>>>> f677eef (Updated Dashboard)

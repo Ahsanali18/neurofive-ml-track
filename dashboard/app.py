@@ -169,7 +169,7 @@ model = load_model()
 # HEADER SECTION
 # -----------------------------------------
 st.markdown('<h1 class="main-title">📉 Customer Churn Predictor</h1>', unsafe_allow_html=True)
-st.markdown('<p class="subtitle">AI-powered risk assessment — enter customer details below to evaluate retention risk in real time.</p>', unsafe_allow_html=True)
+st.markdown('<p class="subtitle">An AI-powered risk assessment Enter customer details below to predict the whether the customer churn or not.</p>', unsafe_allow_html=True)
 
 # -----------------------------------------
 # INPUT SECTION (7 / 6 / 7 fields)
