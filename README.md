@@ -9,6 +9,6 @@
 ---
 
 ## 🚀 Live Demo
-Experience the live application here: **[GariQeemat on Streamlit Cloud](https://gariqeemat.streamlit.app/)**
+Experience the live application here: **[GariQeemat Live](https://gariqeemat.streamlit.app/)**
 
 ---
