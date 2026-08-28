@@ -5,7 +5,6 @@ __pycache__/
 .vscode/
 data/creditcard.csv
 
-GariQeemat/data/processed/cleaned_data.csv
 GariQeemat/data/processed/X_train.csv
 GariQeemat/data/processed/X_test.csv
 GariQeemat/data/processed/y_train.csv
