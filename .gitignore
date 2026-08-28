@@ -10,10 +10,8 @@ GariQeemat/data/processed/X_train.csv
 GariQeemat/data/processed/X_test.csv
 GariQeemat/data/processed/y_train.csv
 GariQeemat/data/processed/y_test.csv
-GariQeemat/data/raw/pak_wheel.csv
 
 # Unused Models & Notebook Outputs
 GariQeemat/models/all_models.pkl
 GariQeemat/models/model_comparison.csv
 GariQeemat/models/best_model_name.txt
-GariQeemat/notebooks/
